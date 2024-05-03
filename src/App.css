@@ -1,0 +1,104 @@
+ .center{
+  text-align: center;
+ }
+ 
+ 
+ .form {
+   width: 80%;
+   margin: auto;
+
+ }
+
+ .form .divOne {
+   width: 48%;
+   margin: 10px;
+   display: inline-block;
+   vertical-align: middle;
+ }
+
+ .form .divTwo {
+   width: 48%;
+   margin: 2px;
+   display: inline-block;
+   vertical-align: middle;
+ }
+
+ .formLabel {
+   font-size: 20px;
+ }
+
+
+ .formInput {
+   width: 90%;
+   height: 30px;
+   border-radius: 5px;
+ }
+
+ .divLabel {
+   width: 90%;
+   margin: 10px;
+
+ }
+
+ .button {
+   width: 10px;
+   height: 20px;
+ }
+
+ .uploadMain {
+   width: 95%;
+   margin: auto;
+
+ }
+
+ .uploadMain .uploadDiv1 {
+   width: 30%;
+   display: inline-block;
+   vertical-align: middle;
+ }
+
+ .uploadMain .uploadDiv2 {
+   width: 30%;
+   display: inline-block;
+   vertical-align: middle;
+ }
+
+ .uploadMain .uploadDiv3 {
+   width: 30%;
+   display: inline-block;
+   vertical-align: middle;
+ }
+
+
+ .uploadMain .uploadDiv4 {
+   width: 8%;
+   display: inline-block;
+   vertical-align: middle;
+ }
+
+ .uploadInput{
+  width: 90%;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: 10px;
+ }
+
+
+ .uploadButton{
+  margin-top: 10px;
+  width: 45px;
+  height: 40px;
+  border-radius: 5px;
+ }
+
+
+ .summitButton{
+  width: 17%;
+  height: 40px;
+  margin: 50px 420px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: 6px;
+  
+ }
